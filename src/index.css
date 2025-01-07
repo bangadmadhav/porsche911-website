@@ -11,3 +11,7 @@
         @apply opacity-0 invisible -translate-y-full pointer-events-none transition duration-300 ease-in-out;
     }
 }
+
+body{
+    font-family: 'Asap Condensed';
+}
