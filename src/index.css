@@ -10,6 +10,14 @@
     .hide{
         @apply opacity-0 invisible -translate-y-full pointer-events-none transition duration-300 ease-in-out;
     }
+
+    .align-left{
+        @apply ml-[3rem] md:ml-[5rem] sm:ml-[4rem];
+    }
+
+    .align-right{
+        @apply mr-[3rem] md:mr-[5rem] sm:mr-[4rem];
+    }
 }
 
 body{
