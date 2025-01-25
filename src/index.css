@@ -18,8 +18,20 @@
     .align-right{
         @apply mr-[3rem] md:mr-[5rem] sm:mr-[4rem];
     }
+
+    
+
+    .model-btn{
+        @apply p-1 rounded transition-all;
+    }
+    .model-btn:hover{
+        @apply bg-zinc-200 ;
+    }
+    .active-model-btn{
+        @apply border-b-2 border-black pb-1
+    }
 }
 
 body{
-    font-family: 'Asap Condensed';
+    font-family: 'Poppins';
 }

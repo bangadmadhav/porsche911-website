@@ -52,7 +52,7 @@ function VideoSection() {
 
 
   return (
-    <section className='h-dvh w-screen text-zinc-200' ref={sectionRef}>
+    <section className='h-dvh w-screen text-zinc-200 font-AsapCondensed' ref={sectionRef}>
         <div className="videoBackground | ">
             <video 
             ref={videoRef}

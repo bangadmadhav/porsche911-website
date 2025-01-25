@@ -9,6 +9,7 @@ function App() {
       <Navbar />
       <VideoSection />
       <Hero />
+      {/* <Hero /> */}
     </div>
   )
 }
