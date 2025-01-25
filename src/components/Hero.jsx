@@ -32,8 +32,8 @@ function Hero() {
   };
   
   return (
-    <section className='w-screen bg-white rounded-t-3xl h-auto'>
-      <div className="absolute w-full h-full">
+    <section className=' bg-white rounded-t-3xl min-h-screen'>
+      <div className="relative w-full h-full">
         <div className="background | w-full relative">
           <div className="overlay | px-[33%] py-[7%] shadow-bottom-inner
                           max-md:px-[28%]">

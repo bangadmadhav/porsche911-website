@@ -23,3 +23,11 @@ export const MODELDETAILS = [
                 mainImg: '/img/porscheModels/gt.avif', img2: '/img/porscheModels/gt2.avif',}
 ];
 
+export const INFO = {
+    title: "The one and always.",
+    description: "Anyone who dreams of a Porsche usually has an image in their mind: the 911 has been the epitome of an exciting, powerful sports car with day-to-day usability for 60 years. Take a seat behind the wheel of the new 911 and become part of a unique community.",
+    img1: "/img/infoSectionImg1.avif",
+    img2: "/img/infoSectionImg2.avif",
+    img3: "/img/infoSectionImg3.avif",
+};
+
